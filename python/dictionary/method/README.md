@@ -1,15 +1,3 @@
-[##_Image|kage@biG7k9/btsiuAiwfKe/jQyCVsDwlsbpG6kZJd4xC0/img.jpg|CDM|1.3|{"originWidth":2181,"originHeight":2762,"style":"floatLeft","width":179,"height":227,"link":"https://www.yes24.com/Product/Goods/111408257","isLinkNewWindow":true,"title":"클린코드&amp;#44; 이제 파이썬이다 책 썸네일","filename":"img.jpeg"}_##]
-
-요즘 이 책 시간 날 때마다 보고있는데, 
-
-딕셔너리에 관해서 너무 좋은 내용이 있어서 기록한다.
-
-파이썬으로 api 로직 짜다보면
-
-keyError 가 나는 경우가 있는데, 내가 굉장히 더럽게 코드를 짜서 해결하고 있었더라 하하
-
-여기서 소개하는 딕셔너리 활용법을 이용하면 굉장히 클린하게 해결할 수 있더라고.
-
 #### **get( ), setdefault( )** 
 
 그동안 나는 keyError가 나거나 할 때, 아래와 같은 방식으로 해결을 했다. 
